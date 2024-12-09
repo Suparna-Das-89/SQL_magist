@@ -1,0 +1,32 @@
+Starting the Data Science Bootcamp with WBS Coding School was an eye-opening experience. Without prior knowledge of bootcamps, I started this journey with a single intention: to learn and grow. Here’s an overview of what I’ve learned and achieved so far:
+
+Practicing the Primer: The Primer provided by WBS Coding School offered an excellent introduction to key tools and concepts:
+SQL: I encountered SQL for the first time and completed all exercises, which were highly informative and effective for building a foundational understanding.
+
+Tableau: This was my initial exposure to Tableau, and it became clear that mastering it would be a valuable and ongoing endeavor.
+
+Python: Despite having prior experience with Python, the Primer presented exciting and engaging challenges that deepened my understanding of the language.
+
+Advancing SQL and Tableau Skills in Class:
+The first project of the bootcamp provided an opportunity to expand my knowledge of SQL and Tableau further. Through hands-on exercises, I applied these skills to analyze and present solutions to a fictional business scenario.
+
+Project: ENIAC-MAGIST Analysis
+For this project, we analyzed a fictional case set in 2018 involving ENIAC, an online marketplace specializing in Apple-compatible accessories, and MAGIST, a company offering logistics and customer support services.
+
+ ENIAC wanted to expand its services to the Brazilian market.
+
+ MAGIST offered stock and warehouse management, product shipment, and customer service.
+
+ The objective was to evaluate whether MAGIST would be a suitable partner for ENIAC's high-end tech products.
+
+Executed SQL queries to analyze the dataset and derive insights in MySQL Workbench.
+Created detailed graphs and visualizations based on the SQL results in Tableau.
+Designed a compelling presentation to showcase the findings and recommendations in Canva.
+
+Acknowledgments:
+I am grateful for the guidance and support received throughout this journey:
+
+WBS Coding School: For providing an enriching dataset and a structured learning environment.
+@afarrag: For being an exceptional instructor and mentor.
+@hadzi-me: For insightful discussions, collaboration, and contributions to the project.
+StatCounter: For real-world statistics that enhanced the analysis.
